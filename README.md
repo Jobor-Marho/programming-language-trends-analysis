@@ -56,6 +56,7 @@ The project was completed using:
 These tools were used for data cleaning, transformation, analysis, and visualization.
 
 ## Project Structure
+``` bash
 programming-language-trends-analysis
 │
 ├── data
@@ -71,6 +72,8 @@ programming-language-trends-analysis
 │
 ├── requirements.txt
 └── README.md
+
+```
 
 
 ### Folder Details:
