@@ -111,7 +111,7 @@ These insights help illustrate how programming language ecosystems evolve within
 
 ![Programming Language Trends Over Time - Line chart showing Python's growth vs Java's stability](visual/python_java_trend.png)
 
-*Figure 1: Trends in programming language popularity over time based on Stack Overflow post counts*
+*Figure 1: Trends in programming language(python, Java) popularity over time based on Stack Overflow post counts*
 
 ## How to Run This Project
 
